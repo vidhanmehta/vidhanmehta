@@ -1,4 +1,4 @@
-### <div align="center">Hi 👋, I'm Vidhan Mehta, AI-Ml devloper 👨‍💻 from India 🇮🇳 
+### <div align="center">Hi 👋, I'm Vidhan Mehta, AI-Ml developer 👨‍💻 from India 🇮🇳 
 ### <div align="center">currently studying in Oxford college of Engineerin 🚀</div>    
 
 - 🔭 I’m currently working on Law Assist(Legal AI ChatBot)  
