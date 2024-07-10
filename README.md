@@ -1,8 +1,8 @@
 ### <div align="center">Hi 👋, I'm Vidhan Mehta, AI-Ml developer 👨‍💻 from India 🇮🇳 
 ### <div align="center">currently studying in Oxford college of Engineerin 🚀</div>    
 
-- 🔭 I’m currently working on Law Assist(Legal AI ChatBot)  
-- 🌱 I’m currently learning LLM(Large Language Model), Chatbots  
+- 🔭 I’m currently working on AI Travel Planner.  
+- 🌱 I’m currently learning React, LLM(Large Language Model), Chatbots  
 - ❓ Ask me about anything related to Machine Learning
 - 📫 How to reach me:  [Mail](vidhanmehta3@gmail.com)  
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/vidhan-mehta-58987323a/)  
